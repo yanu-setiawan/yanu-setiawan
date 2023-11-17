@@ -22,6 +22,7 @@ class About {
     this.name = 'Yanu Setiawan';
     this.role = 'Frontend Developer'
     this.address = 'Tuban, East Java, Indonesia'
+    this.activity = 'Eat, Sleep, Code'
   }
  
   summary() {
