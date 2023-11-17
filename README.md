@@ -53,7 +53,7 @@ class About {
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode,php,js,css,html,golang" />
+    <img src="https://skillicons.dev/icons?i=vscode,js,css,html,typescript" />
   </a>
   <br><br>
   <a href="#">
@@ -61,7 +61,7 @@ class About {
   </a>
   <br><br>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=laravel,express,react,next,tailwind" />
+    <img src="https://skillicons.dev/icons?i=express,react,next,tailwind" />
   </a>
 </p>
 
